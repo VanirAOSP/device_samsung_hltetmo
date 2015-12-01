@@ -19,7 +19,7 @@ TARGET_OTA_ASSERT_DEVICE := hltetmo,SM-N900T,hltecan,SM-N900W8
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
-TARGET_LIBINIT_DEFINES_FILE := device/samsung/hltetmo/init/init_hltetmo.c
+TARGET_LIBINIT_DEFINES_FILE := device/samsung/hltetmo/init/init_hltetmo.cpp
 TARGET_UNIFIED_DEVICE := true
 
 # Kernel
